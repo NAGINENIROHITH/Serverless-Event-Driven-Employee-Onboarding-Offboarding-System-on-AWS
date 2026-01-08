@@ -18,6 +18,10 @@ Microservices-oriented Design
 
 Cloud-Native Application
 
+# Architecture Diagram
+<img width="1334" height="625" alt="arc" src="https://github.com/user-attachments/assets/20245ec4-177f-477c-a881-ebcc3b61c5fd" />
+
+
 # 🛠️ AWS Services Used
 
 AWS Lambda – Business logic execution
