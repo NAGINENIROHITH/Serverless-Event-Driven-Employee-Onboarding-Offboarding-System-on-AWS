@@ -131,11 +131,16 @@ Triggers onboarding & offboarding Lambdas every 4 hours
 Sends batch summary notifications
 
 # 🔄 CRUD Operations Mapping
-# | Process     | HTTP Method | Operation        |
+  | Process     | HTTP Method | Operation        |
+  
   | ----------- | ----------- | ---------------- |
+  
   | Onboarding  | POST        | Create employee  |
+  
   | Onboarding  | PATCH       | Update password  |
+  
   | Offboarding | GET         | Read employee(s) |
+  
   | Offboarding | DELETE      | Delete employee  |
 
 # 🔐 Authentication Flow
